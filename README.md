@@ -42,7 +42,7 @@ Aquí puedes mostrar lo que ha sido tu trabajo como tester, publicando las difer
 
 [Documentos realizados a lo largo del curso](https://drive.google.com/drive/folders/1YoeavIoHM5rpdzKraIPrmP5u6wzO9Qk6?usp=sharing)
 
-##Proyecto
+## Proyecto
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
   * [Especificación de requerimientos](https://docs.google.com/document/d/1qoG5_-KqhyhtFrWrkxfn1c9beztVIzmz/edit?usp=sharing&ouid=104416712741261238853&rtpof=true&sd=true)
   * 
